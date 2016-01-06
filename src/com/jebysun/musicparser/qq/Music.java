@@ -14,8 +14,8 @@ public class Music implements Serializable {
 	private String musicName;
 	private String singer;
 	private String ablum;
-	private String musicUrl;
 	private String ablumPictureUrl;
+	private String musicUrl;
 	private String lrcUrl;
 	
 	public Music() {}
